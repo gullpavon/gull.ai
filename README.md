@@ -1,3 +1,6 @@
+<head>
+  <meta name="google-site-verification" content="hdYWrp-L3U44ehNVVccbLK09gW01zaeZtBzM9Skj3ts" />
+</head>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gullpavon/gull.ai/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
